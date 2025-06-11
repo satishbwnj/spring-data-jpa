@@ -19,10 +19,6 @@
 		<version>3.5.0-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
-
-
-	
-
 	
 	<properties>
 		<java-module-name>spring.data.jpa</java-module-name>
