@@ -13,6 +13,7 @@
 	<description>Spring Data module for JPA repositories.</description>
 	<url>https://projects.spring.io/spring-data-jpa</url>
 
+	
 	<parent>
 		<groupId>org.springframework.data</groupId>
 		<artifactId>spring-data-jpa-parent</artifactId>
